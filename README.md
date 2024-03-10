@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @CusetIX.
 - 👀 I’m interested in C++ programming and music games.
-- 🌱 I’m currently learning ...
+- 🍥 Arcaea ptt 11.66; Phigros rks 15.44;
+- 🌱 I’m currently learning Dymanic Programming, Easyx, Trees.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: you can use 'she' or 'he' as well.
-- ⚡ Fun fact: My biological gender is MALE.
+- 📫 How to reach me: QQ-491719523.
+- 😄 Pronouns: you can use 'she'.
+- ⚡ Fun fact: My biological gender is ■■■■■.
