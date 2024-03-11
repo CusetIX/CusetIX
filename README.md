@@ -1,4 +1,8 @@
-- 👋 Hi, I’m @CusetIX.
+### Hi, I'm Cuset_Nekomusume.
+
+## You can chat with me on QQ, I'm glad to talk with you.
+
+- 👋 Hi, I’m @Cuset_Nekomusume.
 - 👀 I’m interested in C++ programming and music games.
 - 🍥 Arcaea ptt 11.66; Phigros rks 15.44;
 - 🌱 I’m currently learning Dymanic Programming, Easyx, Trees.
