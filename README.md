@@ -4,7 +4,7 @@
 
 - 👋 Hi, I’m @Cuset_Nekomusume.
 - 👀 I’m interested in C++ programming and music games.
-- 🍥 Arcaea ptt 11.66; Phigros rks 15.44;
+- 🍥 Arcaea ptt 12.35; Phigros rks 15.62;
 - 🌱 I’m currently learning Dymanic Programming, Easyx, Trees.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: QQ-491719523.
